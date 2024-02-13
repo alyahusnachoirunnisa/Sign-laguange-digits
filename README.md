@@ -21,7 +21,3 @@ This data set contains images of sign language digits. There are ten classes, la
 - Number of participant students: 218
 - Number of samples per student: 10
 
-
-## Author
-
-- [@RahatKaderKhan](https://github.com/rahatkader)
